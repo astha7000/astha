@@ -1,3 +1,3 @@
 # astha
 This is the first file created.
-this to learn git and github.
+this is to learn git and github.
